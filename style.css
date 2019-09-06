@@ -1,0 +1,290 @@
+body{
+    Background-image:
+
+Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+Linear-gradient(127deg, black, black 70.71%),
+
+Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+margin: 0%;
+padding: 0%;
+}
+.navbar{
+    background-color:
+    Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+    
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    display: flex;
+    width: 100% ;
+    
+}
+.navmenu{
+    display: flex;
+   
+    width:100%;
+
+    justify-content: space-around ;
+  
+}
+.navmenu a{
+    color: white;
+    text-decoration: none;
+    font-size: 28px;
+}
+.image1{
+    width:100% ;
+    height: 100%;
+   
+}
+.image2{
+    width:100% ;
+    height: 100%;
+   
+}
+.image3{
+    width:100% ;
+    height: 100%;
+}
+.courses{
+    display: flex ;
+    justify-content: center;
+    color:white;
+    font-size: 28px ;
+
+}
+.imagess {
+    display: flex;
+    width:100%;
+    justify-content: center;
+   
+}
+.imagess img {
+    margin: 20px;
+   
+}
+.view{
+    display: flex;
+   
+    width:100%;
+    justify-content: center;
+  
+}
+.view a {
+    color:blue;
+    text-decoration: none;
+    font-size: 20px;
+}
+.more{
+    display: flex;
+    justify-content: center;
+    color: white ;
+}
+.vedio{
+    display: flex ;
+    justify-content: center;
+   
+}
+.vedio iframe{
+   width: 560px;
+    height:315px;
+}
+.logo{
+    width: 30px;
+    height:30px;
+}
+.COURSES{
+    display: flex;
+    color: white ;
+    justify-content: center;
+    align-items: center ;
+    background-image :url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    width: 100%;
+    height:500px ;
+    
+}
+.IMAGES{
+    width: 100%;
+    
+    
+}
+.A,.B,.C {
+
+    margin-left: 8%;
+    
+
+}
+
+.zz img {
+    width: 100%;
+}
+.feed{
+    color: white ;
+    display: flex ;
+    justify-content: center;
+    font-size: 2em ;
+}
+.button { 
+    width: 100%;
+    color: black ;
+    display: flex;
+    justify-content: center
+
+}
+.button button,select {
+    margin: 20px 
+}
+.text{
+    display: flex ;
+    justify-content: center
+}
+
+  
+  
+         
+
+.myform{
+    
+    width: 100%;
+    display: flex;
+align-items: center;
+flex-direction: column;
+    
+    color: white;
+}
+.myform input,select{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px
+}
+.myform button{
+    background-color: blue ;
+    border-color: blue;
+}
+.myform button:hover{
+    opacity: 0.5
+}
+#makrem{
+    width: 300px;
+    height: 100px;
+    margin: 20px;
+    max-width:300px ;
+    max-height: 158px;
+}   
+
+    
+    
+.image{
+    /* width: 250px; */
+    height: 250px;
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 20px ;
+    
+    
+}
+.imagee{
+    /* width: 250px; */
+    height: 250px;
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 20px ;
+}
+.imageee{
+    /* width: 250px; */
+    height: 250px;
+    background-image: url("https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 20px ;
+}
+.photo{
+    /* width: 250px; */
+    height: 250px;
+    background-image: url("https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel3.png" );
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 20px ;
+}
+.photo1{
+    /* width: 250px; */
+    height: 250px;
+    background-image: url("https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel4.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 20px ;
+}
+.photo2{
+    /* width: 250px; */
+    height: 250px;
+    background-image: url("https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel5.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 20px ;  
+}
+.photoo{
+    /* width: 250px; */
+    height: 250px;
+    background-image: url("https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel6.png" );
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 20px ;
+}
+.photo11{
+    /* width: 250px; */
+    height: 250px;
+    background-image: url("https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel7.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 20px ;
+}
+.photo22{
+    /* width: 250px; */
+    height: 250px;
+    background-image: url("https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel8.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 20px ;  
+}
+
+    
+
+/* 
+.A div {
+    display: flex ;
+    justify-content: center;
+    align-items: center ;
+    
+}
+.B div {
+    display: flex ;
+    justify-content: center;
+    align-items: center ;
+}
+.C div {
+    display: flex ;
+    justify-content: center;
+    align-items: center ;
+} */
+.zz div button {
+    opacity: 0;
+}
+
+
+    
+
+.dd  {
+    
+    display: flex ;
+    justify-content: center;
+    align-items: center ;
+}
+.dd button {
+    opacity: 0;
+}
+
+
+
